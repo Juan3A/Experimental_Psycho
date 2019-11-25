@@ -14,6 +14,3 @@ class AExperimental_PsychoGameMode : public AGameModeBase
 public:
 	AExperimental_PsychoGameMode();
 };
-
-
-
